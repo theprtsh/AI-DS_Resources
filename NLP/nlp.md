@@ -473,3 +473,4 @@
 119. **What type of grammar is used in syntactic analysis?**
 **Correct Answer:** Context-free grammar
 **Reasoning:** (Repeated question, same reasoning as Q.27)
+
